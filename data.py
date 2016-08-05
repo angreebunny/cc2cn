@@ -1,5 +1,4 @@
 
-
 cc2_cn = {  # cc2_cn - Two Letter ISO Country Code to Country Name
     'AF': 'Afghanistan',
     'AX': 'Aland Islands',
